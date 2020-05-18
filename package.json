@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nightscout/share2nightscout-bridge.git"
+    "url": "git://github.com/kdisimone/share2nightscout-bridge.git"
   },
   "engines": {
     "node": "10.x || 8.x"
